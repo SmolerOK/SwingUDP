@@ -12,6 +12,7 @@ import java.util.Arrays;
 import java.util.HexFormat;
 
 public class UiScene extends JDialog {
+
     private JPanel contentPane;
     private JButton buttonDoor0;
     private JButton buttonDoor1;
@@ -20,8 +21,8 @@ public class UiScene extends JDialog {
     private static final Logger LOGGER = LogManager.getLogger(UiScene.class);
     private static final int SERVICE_PORT = 8192;
     private static final byte[] MESSAGE = {0x02, 0x1F, 0x00, 0x03, 0x61, 0x38};
-    ConnectionDatabase connectionDatabase = new ConnectionDatabase();
 
+    ConnectionDatabase connectionDatabase = new ConnectionDatabase();
     Statement statement;
 
     {
@@ -45,6 +46,7 @@ public class UiScene extends JDialog {
     }
 
     private void onDoor0() {
+
         try (MulticastSocket socket = new MulticastSocket()) {
             InetAddress ipAddress = InetAddress.getByName(jTestArea.getText());
 
@@ -96,12 +98,14 @@ public class UiScene extends JDialog {
     }
 
     public static void main(String[] args) {
+
         LOGGER.info("Запуск программы.");
         UiScene dialog = new UiScene();
         dialog.pack();
         dialog.setVisible(true);
         LOGGER.info("Закрытие программы.");
         System.exit(0);
+
     }
 
 
