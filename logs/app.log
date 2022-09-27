@@ -1,0 +1,32 @@
+[INFO ] 2022-09-28 00:11:30.937 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-28 00:11:31.090 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-28 00:11:31.342 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-28 00:11:31.342 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-28 00:11:31.347 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-28 00:11:57.871 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-28 00:11:58.019 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-28 00:11:58.235 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-28 00:11:58.235 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-28 00:11:58.239 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-28 00:13:22.138 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-28 00:13:22.293 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-28 00:13:22.503 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-28 00:13:22.503 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-28 00:13:22.508 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-28 00:13:41.329 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-28 00:20:03.312 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-28 00:20:03.466 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-28 00:20:03.710 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-28 00:20:03.710 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-28 00:20:03.714 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-28 00:20:08.008 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-28 00:21:05.343 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-28 00:21:05.493 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-28 00:21:05.721 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-28 00:21:05.721 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-28 00:21:05.725 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-28 00:21:06.703 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-28 00:21:06.704 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-6ED6N50/192.168.1.4
+[ERROR] 2022-09-28 00:21:07.712 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[ERROR] 2022-09-28 00:21:13.824 [AWT-EventQueue-0] UiScene - Ошибка: java.net.UnknownHostException: Этот хост неизвестен (192.168.0.)
+[INFO ] 2022-09-28 00:21:16.740 [main] UiScene - Закрытие программы.

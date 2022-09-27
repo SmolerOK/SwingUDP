@@ -1,0 +1,117 @@
+[INFO ] 2022-09-25 16:09:52.481 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:09:54.868 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:09:54.869 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:09:55.871 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:10:09.433 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-25 16:11:30.372 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:11:31.593 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:11:31.595 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:11:32.597 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:12:00.779 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:12:00.780 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:12:01.781 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:12:04.271 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-25 16:13:54.740 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:13:57.181 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:13:57.183 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:13:58.185 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:15:34.997 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:15:36.376 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:15:36.377 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:15:37.379 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:15:41.715 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-25 16:17:08.625 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:17:09.967 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:17:09.968 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:17:10.971 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:17:26.002 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-25 16:17:50.503 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-25 16:17:52.739 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-25 16:17:52.740 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-B9Q9VVS/192.168.1.4
+[ERROR] 2022-09-25 16:17:53.742 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-25 16:18:05.616 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 18:30:26.421 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 18:30:30.240 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-27 18:30:30.242 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-6ED6N50/192.168.1.4
+[ERROR] 2022-09-27 18:30:31.243 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-27 18:30:33.129 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 22:54:46.044 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 22:54:46.251 [main] UiScene.ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[INFO ] 2022-09-27 22:56:14.676 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 22:56:14.827 [main] UiScene.ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[INFO ] 2022-09-27 22:58:30.055 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 22:58:30.199 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[INFO ] 2022-09-27 23:00:39.901 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:00:40.058 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[INFO ] 2022-09-27 23:03:06.161 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:03:06.310 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[ERROR] 2022-09-27 23:03:06.504 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:03:07.504 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:03:07.646 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.fdb .
+[ERROR] 2022-09-27 23:03:07.796 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:07:50.868 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:07:51.019 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:/MyDataBase/CLIENTDB.fdb .
+[ERROR] 2022-09-27 23:07:51.208 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:08:34.054 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:08:34.198 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:/MyDataBase/CLIENTDB.FDB .
+[ERROR] 2022-09-27 23:08:34.387 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:09:04.865 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:09:05.007 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[ERROR] 2022-09-27 23:09:05.185 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:10:31.697 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:10:31.842 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[ERROR] 2022-09-27 23:10:32.021 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:11:07.039 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:11:07.188 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[ERROR] 2022-09-27 23:11:07.367 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:13:43.390 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:13:43.543 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[ERROR] 2022-09-27 23:13:43.730 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:17:48.574 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:17:48.722 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[ERROR] 2022-09-27 23:17:48.909 [main] ConnectionDatabase - java.sql.SQLException: unavailable database [SQLState:08001, ISC error code:335544375]
+[INFO ] 2022-09-27 23:18:44.211 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:18:44.354 [main] ConnectionDatabase - Попытка подключения к базе данных по пути:  .
+[INFO ] 2022-09-27 23:18:44.537 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:18:49.222 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:20:25.060 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:20:25.202 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:20:25.383 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:20:28.291 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:55:41.183 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:56:25.092 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:56:25.243 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:56:25.497 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:56:25.498 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-27 23:56:25.502 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-27 23:56:27.847 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-27 23:56:27.849 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-6ED6N50/192.168.1.4
+[ERROR] 2022-09-27 23:56:28.852 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-27 23:56:28.877 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:56:59.071 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:56:59.216 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:56:59.444 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:56:59.444 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-27 23:56:59.448 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-27 23:57:01.874 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:57:20.024 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:57:20.182 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:57:20.395 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:57:20.395 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-27 23:57:20.399 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-27 23:57:21.672 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:57:54.695 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:57:54.846 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:57:55.049 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:57:55.049 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-27 23:57:55.054 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-27 23:58:15.066 [main] UiScene - Закрытие программы.
+[INFO ] 2022-09-27 23:58:22.019 [main] UiScene - Запуск программы.
+[INFO ] 2022-09-27 23:58:22.170 [main] ConnectionDatabase - Попытка подключения к базе данных по пути: D:\MyDataBase\CLIENTDB.FDB .
+[INFO ] 2022-09-27 23:58:22.375 [main] ConnectionDatabase - Успешное подключение к базе данных.
+[INFO ] 2022-09-27 23:58:22.375 [main] UiScene - Отправка запроса.
+[INFO ] 2022-09-27 23:58:22.379 [main] UiScene - Запрос успешно отправлен.
+[INFO ] 2022-09-27 23:58:23.398 [AWT-EventQueue-0] UiScene - Чтение ip: /192.168.0.35:8192
+[INFO ] 2022-09-27 23:58:23.398 [AWT-EventQueue-0] UiScene - Отправка данных: [2, 31, 0, 3, 97, 56]. От: DESKTOP-6ED6N50/192.168.1.4
+[ERROR] 2022-09-27 23:58:24.406 [AWT-EventQueue-0] UiScene - Ошибка: java.net.SocketTimeoutException: Receive timed out
+[INFO ] 2022-09-27 23:58:32.743 [main] UiScene - Закрытие программы.
